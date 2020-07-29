@@ -4,7 +4,6 @@
 -  **Languages :** Java :heart:, JavaScript :yellow_heart:, Golang :blue_heart:
 -  **Hobbies :** Movies :tv: & Music :headphones:
 -  **Motto :** Learn, Forget, Relearn :smile: <br>
-<img align="right" width="400px" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" /><br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtharvaThorve&theme=radical&show_icons=true)
 
 :star: From [Atharva Thorve](https://github.com/AtharvaThorve)
