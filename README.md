@@ -3,7 +3,8 @@
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:
 -  **Languages :** Java :heart:, JavaScript :yellow_heart:, Golang :blue_heart:
 -  **Hobbies :** Movies :tv: & Music :headphones:
--  **Motto :** Learn, Forget, Relearn :smile: <br>
+-  **Motto :** Learn, Forget, Relearn :smile:
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtharvaThorve&theme=radical&show_icons=true)
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 :star: From [Atharva Thorve](https://github.com/AtharvaThorve)
