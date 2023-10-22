@@ -3,5 +3,5 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaThorve&layout=compact" />
 -  A full-stack developer
 -  Student at **NCSU**
--  Interested and works on blockchain development
--  Learning Go and Solidity
+-  Ex Goldman Sachs Engineer Analyst
+-  Interested in blockchain development
