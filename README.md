@@ -9,6 +9,8 @@ Student at **NCSU** and Alumnus of VJTI
 Ex-Engineering Analyst at Goldman Sachs
 <br><br>
 Competed in ACM ICPC North America Mid Atlantic Regionals 2023.
+<br><br>
+Open Source Contributor
 
 ### /recent projects
 - [Dandelion Optimizer](https://github.com/AtharvaThorve/Dandelion-Optimizer)
