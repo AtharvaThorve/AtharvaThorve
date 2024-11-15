@@ -6,11 +6,13 @@
 
 Student at **NCSU** and Alumnus of VJTI
 <br><br>
-Ex-Engineering Analyst at Goldman Sachs
+Ex-Engineering Analyst at **Goldman Sachs**
 <br><br>
-Competed in ACM ICPC North America Mid Atlantic Regionals 2023.
+Competed in **ACM ICPC** North America Mid Atlantic Regionals 2023.
 <br><br>
 Open Source Contributor
+<br><br>
+**Teaching Assistant** for Design and Analysis of Algorithms
 
 ### /recent projects
 - [Dandelion Optimizer](https://github.com/AtharvaThorve/Dandelion-Optimizer)
@@ -21,3 +23,4 @@ Open Source Contributor
   - Senior Undergrad Project based on secure decentralized identity management using Blockchain
 - [Comptetive Programming](https://github.com/AtharvaThorve/Competitive-Programming)
   - Contains Competitive programming questions that I have solved or the ones WIP, along with the Java template
+  - More Resources for Algorithms: [williamfiset/Algorithms](https://github.com/williamfiset/Algorithms), [cp-algorithms/cp-algorithms](https://github.com/cp-algorithms/cp-algorithms).
