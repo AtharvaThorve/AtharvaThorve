@@ -15,6 +15,8 @@ Open Source **Contributor**
 **Teaching Assistant** for Design and Analysis of Algorithms
 
 ### /recent projects
+- [Game Engine](https://github.com/AtharvaThorve/Game-Engine)
+  - Custom made game engine from scratch
 - [Decentralized Identity Management Using Blockchain](https://github.com/BTechProject2022)
   - Decentralized Identity Management software leveraging blockchain for secure handling of credentials.
 - [Dandelion Optimizer](https://github.com/AtharvaThorve/Dandelion-Optimizer)
