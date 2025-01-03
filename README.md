@@ -17,6 +17,8 @@ Open Source **Contributor**
 ### /recent projects
 - [Game Engine](https://github.com/AtharvaThorve/Game-Engine)
   - Custom made game engine from scratch
+- [Flappy Bird in Paint](https://github.com/AtharvaThorve/Flappy-Bird-in-Paint)
+  - It is what it sounds like, flappy bird game in MS Paint
 - [Decentralized Identity Management Using Blockchain](https://github.com/BTechProject2022)
   - Decentralized Identity Management software leveraging blockchain for secure handling of credentials.
 - [Dandelion Optimizer](https://github.com/AtharvaThorve/Dandelion-Optimizer)
