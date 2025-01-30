@@ -2,6 +2,11 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+<br/>
+
+> "Turning ideas into impactful solutions, one line of code at a time!"*
+<br>
+
 [![Linkedin Badge](https://img.shields.io/badge/-Atharva_Thorve-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atharva-thorve-5b6268193//)](https://www.linkedin.com/in/atharva-thorve-5b6268193/) [![Gmail Badge](https://img.shields.io/badge/-aaathorve@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aaathorve@gmail.com)](mailto:aaathorve@gmail.com)
 
 ## /software engineer.
@@ -9,15 +14,11 @@
 
 ### /about me
 
-Student at **NCSU** and Alumnus of VJTI
-<br><br>
-Ex-Engineering Analyst at **Goldman Sachs**
-<br><br>
-**ACM ICPC** regionalist.
-<br><br>
-Open Source **Contributor**
-<br><br>
-**Teaching Assistant** for Design and Analysis of Algorithms
+Software engineer currently pursuing a Master of Computer Science at North Carolina State University. 
+
+Hands-on experience with languages like **C++, Java, JavaScript, Golang, Julia, and Solidity**. Proficiency in frameworks like **NodeJS, ReactJS, and SpringBoot**. 
+
+Professionally worked at **Goldman Sachs** providing impactful and efficient solutions.
 
 ### /recent projects
 - [Game Engine](https://github.com/AtharvaThorve/Game-Engine)
