@@ -27,7 +27,7 @@ Professionally worked at **Goldman Sachs** providing impactful and efficient sol
   - It is what it sounds like, flappy bird game in MS Paint
 - [Decentralized Identity Management Using Blockchain](https://github.com/BTechProject2022)
   - Decentralized Identity Management software leveraging blockchain for secure handling of credentials.
-- [Dandelion Optimizer](https://github.com/AtharvaThorve/Dandelion-Optimizer)
+- [Dandelion Optimizer](https://github.com/asneerug/DandelionOptimizerTSP)
   - Nature Inspired Metaheuristic algorithm to solve continuous and discrete NP-Complete problems like TSP.
 - [Comptetive Programming](https://github.com/AtharvaThorve/Competitive-Programming)
   - Contains Competitive programming questions that I have solved or the ones WIP, along with the Java template
