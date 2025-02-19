@@ -21,6 +21,8 @@ Hands-on experience with languages like **C++, Java, JavaScript, Golang, Julia, 
 Professionally worked at **Goldman Sachs** providing impactful and efficient solutions.
 
 ### /recent projects
+- [monkE](https://github.com/AtharvaThorve/monkE)
+  - Interpreter for language monkE written in Go
 - [Game Engine](https://github.com/AtharvaThorve/Game-Engine)
   - Custom made game engine from scratch
 - [Flappy Bird in Paint](https://github.com/AtharvaThorve/Flappy-Bird-in-Paint)
