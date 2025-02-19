@@ -14,7 +14,7 @@
 
 ### /about me
 
-Software engineer currently pursuing a Master of Computer Science at North Carolina State University. 
+**Software engineer** and **Open Source Contributor** currently pursuing a Master of Computer Science at North Carolina State University. 
 
 Hands-on experience with languages like **C++, Java, JavaScript, Golang, Julia, and Solidity**. Proficiency in frameworks like **NodeJS, ReactJS, and SpringBoot**. 
 
