@@ -22,7 +22,7 @@ Professionally worked at **Goldman Sachs** providing impactful and efficient sol
 
 ### /recent projects
 - [monkE](https://github.com/AtharvaThorve/monkE)
-  - Interpreter for language monkE written in Go
+  - A Compiler and an Interpreter for language monkE written in Go
 - [Game Engine](https://github.com/AtharvaThorve/Game-Engine)
   - Custom made game engine from scratch
 - [Flappy Bird in Paint](https://github.com/AtharvaThorve/Flappy-Bird-in-Paint)
